@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+	<Request>
+		<authentication>true</authentication>
+		<key>
+			<![CDATA[aBIb5YItlnvRHJQ441m15w]]>
+		</key>
+		<method>
+			<![CDATA[search_index]]>
+		</method>
+	</Request>
+	<search>
+		<query>
+			<![CDATA[true]]>
+		</query>
+		<results-start>1</results-start>
+		<results-end>20</results-end>
+		<total-results>58872</total-results>
+		<source>Goodreads</source>
+		<query-time-seconds>0.16</query-time-seconds>
+		<results>
+			<work>
+				<id type="integer">1191096</id>
+				<books_count type="integer">54</books_count>
+				<ratings_count type="integer">271315</ratings_count>
+				<text_reviews_count type="integer">8176</text_reviews_count>
+				<original_publication_year type="integer">1998</original_publication_year>
+				<original_publication_month type="integer">1</original_publication_month>
+				<original_publication_day type="integer">1</original_publication_day>
+				<average_rating>4.18</average_rating>
+				<best_book type="Book">
+					<id type="integer">227711</id>
+					<title>I Know This Much Is True</title>
+					<author>
+						<id type="integer">3505</id>
+						<name>Wally Lamb</name>
+					</author>
+					<image_url>https://images.gr-assets.com/books/1373532198m/227711.jpg</image_url>
+					<small_image_url>https://images.gr-assets.com/books/1373532198s/227711.jpg</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">17995392</id>
+				<books_count type="integer">29</books_count>
+				<ratings_count type="integer">141451</ratings_count>
+				<text_reviews_count type="integer">16589</text_reviews_count>
+				<original_publication_year type="integer">2012</original_publication_year>
+				<original_publication_month type="integer">4</original_publication_month>
+				<original_publication_day type="integer">17</original_publication_day>
+				<average_rating>3.90</average_rating>
+				<best_book type="Book">
+					<id type="integer">12868761</id>
+					<title>Let's Pretend This Never Happened: A Mostly True Memoir</title>
+					<author>
+						<id type="integer">5272674</id>
+						<name>Jenny  Lawson</name>
+					</author>
+					<image_url>https://images.gr-assets.com/books/1489415716m/12868761.jpg</image_url>
+					<small_image_url>https://images.gr-assets.com/books/1489415716s/12868761.jpg</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">829330</id>
+				<books_count type="integer">81</books_count>
+				<ratings_count type="integer">192564</ratings_count>
+				<text_reviews_count type="integer">21237</text_reviews_count>
+				<original_publication_year type="integer">2007</original_publication_year>
+				<original_publication_month type="integer">9</original_publication_month>
+				<original_publication_day type="integer">12</original_publication_day>
+				<average_rating>4.12</average_rating>
+				<best_book type="Book">
+					<id type="integer">693208</id>
+					<title>The Absolutely True Diary of a Part-Time Indian</title>
+					<author>
+						<id type="integer">4174</id>
+						<name>Sherman Alexie</name>
+					</author>
+					<image_url>https://images.gr-assets.com/books/1327908992m/693208.jpg</image_url>
+					<small_image_url>https://images.gr-assets.com/books/1327908992s/693208.jpg</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">120878</id>
+				<books_count type="integer">39</books_count>
+				<ratings_count type="integer">152402</ratings_count>
+				<text_reviews_count type="integer">2921</text_reviews_count>
+				<original_publication_year type="integer">1989</original_publication_year>
+				<original_publication_month type="integer">10</original_publication_month>
+				<original_publication_day type="integer" nil="true"/>
+				<average_rating>4.30</average_rating>
+				<best_book type="Book">
+					<id type="integer">125507</id>
+					<title>The True Story of the 3 Little Pigs</title>
+					<author>
+						<id type="integer">27318</id>
+						<name>Jon Scieszka</name>
+					</author>
+					<image_url>https://images.gr-assets.com/books/1327884731m/125507.jpg</image_url>
+					<small_image_url>https://images.gr-assets.com/books/1327884731s/125507.jpg</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">4020951</id>
+				<books_count type="integer">54</books_count>
+				<ratings_count type="integer">38388</ratings_count>
+				<text_reviews_count type="integer">2991</text_reviews_count>
+				<original_publication_year type="integer">2009</original_publication_year>
+				<original_publication_month type="integer">2</original_publication_month>
+				<original_publication_day type="integer">4</original_publication_day>
+				<average_rating>3.91</average_rating>
+				<best_book type="Book">
+					<id type="integer">3975186</id>
+					<title>True Colors</title>
+					<author>
+						<id type="integer">54493</id>
+						<name>Kristin Hannah</name>
+					</author>
+					<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+					<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">997358</id>
+				<books_count type="integer">51</books_count>
+				<ratings_count type="integer">73657</ratings_count>
+				<text_reviews_count type="integer">2968</text_reviews_count>
+				<original_publication_year type="integer">1990</original_publication_year>
+				<original_publication_month type="integer" nil="true"/>
+				<original_publication_day type="integer" nil="true"/>
+				<average_rating>3.82</average_rating>
+				<best_book type="Book">
+					<id type="integer">310146</id>
+					<title>The True Confessions of Charlotte Doyle</title>
+					<author>
+						<id type="integer">10105</id>
+						<name>Avi</name>
+					</author>
+					<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+					<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">1077715</id>
+				<books_count type="integer">59</books_count>
+				<ratings_count type="integer">105757</ratings_count>
+				<text_reviews_count type="integer">2985</text_reviews_count>
+				<original_publication_year type="integer">1974</original_publication_year>
+				<original_publication_month type="integer" nil="true"/>
+				<original_publication_day type="integer" nil="true"/>
+				<average_rating>4.01</average_rating>
+				<best_book type="Book">
+					<id type="integer">105992</id>
+					<title>Helter Skelter: The True Story of the Manson Murders</title>
+					<author>
+						<id type="integer">28828</id>
+						<name>Vincent Bugliosi</name>
+					</author>
+					<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+					<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">1244564</id>
+				<books_count type="integer">53</books_count>
+				<ratings_count type="integer">67562</ratings_count>
+				<text_reviews_count type="integer">4562</text_reviews_count>
+				<original_publication_year type="integer">2009</original_publication_year>
+				<original_publication_month type="integer">9</original_publication_month>
+				<original_publication_day type="integer">30</original_publication_day>
+				<average_rating>4.17</average_rating>
+				<best_book type="Book">
+					<id type="integer">1255781</id>
+					<title>Have a Little Faith: a True Story</title>
+					<author>
+						<id type="integer">2331</id>
+						<name>Mitch Albom</name>
+					</author>
+					<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+					<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">1320617</id>
+				<books_count type="integer">46</books_count>
+				<ratings_count type="integer">32066</ratings_count>
+				<text_reviews_count type="integer">4329</text_reviews_count>
+				<original_publication_year type="integer">1968</original_publication_year>
+				<original_publication_month type="integer">5</original_publication_month>
+				<original_publication_day type="integer">21</original_publication_day>
+				<average_rating>4.14</average_rating>
+				<best_book type="Book">
+					<id type="integer">257845</id>
+					<title>True Grit</title>
+					<author>
+						<id type="integer">27034</id>
+						<name>Charles Portis</name>
+					</author>
+					<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+					<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">878114</id>
+				<books_count type="integer">6</books_count>
+				<ratings_count type="integer">209692</ratings_count>
+				<text_reviews_count type="integer">8676</text_reviews_count>
+				<original_publication_year type="integer">1971</original_publication_year>
+				<original_publication_month type="integer">1</original_publication_month>
+				<original_publication_day type="integer">1</original_publication_day>
+				<average_rating>4.41</average_rating>
+				<best_book type="Book">
+					<id type="integer">561909</id>
+					<title>The Hiding Place: The Triumphant True Story of Corrie Ten Boom</title>
+					<author>
+						<id type="integer">102203</id>
+						<name>Corrie ten Boom</name>
+					</author>
+					<image_url>https://images.gr-assets.com/books/1320418824m/561909.jpg</image_url>
+					<small_image_url>https://images.gr-assets.com/books/1320418824s/561909.jpg</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">3034</id>
+				<books_count type="integer">32</books_count>
+				<ratings_count type="integer">48761</ratings_count>
+				<text_reviews_count type="integer">1592</text_reviews_count>
+				<original_publication_year type="integer">2004</original_publication_year>
+				<original_publication_month type="integer">1</original_publication_month>
+				<original_publication_day type="integer">1</original_publication_day>
+				<average_rating>3.97</average_rating>
+				<best_book type="Book">
+					<id type="integer">79790</id>
+					<title>Magical Thinking: True Stories</title>
+					<author>
+						<id type="integer">3058</id>
+						<name>Augusten Burroughs</name>
+					</author>
+					<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+					<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">1625592</id>
+				<books_count type="integer">96</books_count>
+				<ratings_count type="integer">70943</ratings_count>
+				<text_reviews_count type="integer">2739</text_reviews_count>
+				<original_publication_year type="integer">2003</original_publication_year>
+				<original_publication_month type="integer" nil="true"/>
+				<original_publication_day type="integer" nil="true"/>
+				<average_rating>3.80</average_rating>
+				<best_book type="Book">
+					<id type="integer">3464</id>
+					<title>True Believer (Jeremy Marsh &amp; Lexie Darnell, #1)</title>
+					<author>
+						<id type="integer">2345</id>
+						<name>Nicholas Sparks</name>
+					</author>
+					<image_url>https://images.gr-assets.com/books/1385739017m/3464.jpg</image_url>
+					<small_image_url>https://images.gr-assets.com/books/1385739017s/3464.jpg</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">24037671</id>
+				<books_count type="integer">12</books_count>
+				<ratings_count type="integer">7493</ratings_count>
+				<text_reviews_count type="integer">857</text_reviews_count>
+				<original_publication_year type="integer">2013</original_publication_year>
+				<original_publication_month type="integer">5</original_publication_month>
+				<original_publication_day type="integer">7</original_publication_day>
+				<average_rating>3.78</average_rating>
+				<best_book type="Book">
+					<id type="integer">17332551</id>
+					<title>True (True Believers, #1)</title>
+					<author>
+						<id type="integer">7941</id>
+						<name>Erin McCarthy</name>
+					</author>
+					<image_url>https://images.gr-assets.com/books/1363196542m/17332551.jpg</image_url>
+					<small_image_url>https://images.gr-assets.com/books/1363196542s/17332551.jpg</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">1887699</id>
+				<books_count type="integer">66</books_count>
+				<ratings_count type="integer">93908</ratings_count>
+				<text_reviews_count type="integer">1562</text_reviews_count>
+				<original_publication_year type="integer">1997</original_publication_year>
+				<original_publication_month type="integer">5</original_publication_month>
+				<original_publication_day type="integer">17</original_publication_day>
+				<average_rating>4.08</average_rating>
+				<best_book type="Book">
+					<id type="integer">6545608</id>
+					<title>The Perfect Storm: A True Story of Men Against the Sea</title>
+					<author>
+						<id type="integer">16494</id>
+						<name>Sebastian Junger</name>
+					</author>
+					<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+					<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">2957021</id>
+				<books_count type="integer">56</books_count>
+				<ratings_count type="integer">71254</ratings_count>
+				<text_reviews_count type="integer">3140</text_reviews_count>
+				<original_publication_year type="integer">2004</original_publication_year>
+				<original_publication_month type="integer">1</original_publication_month>
+				<original_publication_day type="integer">1</original_publication_day>
+				<average_rating>3.91</average_rating>
+				<best_book type="Book">
+					<id type="integer">89375</id>
+					<title>90 Minutes in Heaven: A True Story of Death and Life</title>
+					<author>
+						<id type="integer">39054</id>
+						<name>Don Piper</name>
+					</author>
+					<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+					<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">1445239</id>
+				<books_count type="integer">38</books_count>
+				<ratings_count type="integer">34721</ratings_count>
+				<text_reviews_count type="integer">1202</text_reviews_count>
+				<original_publication_year type="integer">1994</original_publication_year>
+				<original_publication_month type="integer">8</original_publication_month>
+				<original_publication_day type="integer">30</original_publication_day>
+				<average_rating>4.02</average_rating>
+				<best_book type="Book">
+					<id type="integer">176839</id>
+					<title>One True Thing</title>
+					<author>
+						<id type="integer">3500</id>
+						<name>Anna Quindlen</name>
+					</author>
+					<image_url>https://images.gr-assets.com/books/1320401814m/176839.jpg</image_url>
+					<small_image_url>https://images.gr-assets.com/books/1320401814s/176839.jpg</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">21569082</id>
+				<books_count type="integer">20</books_count>
+				<ratings_count type="integer">19994</ratings_count>
+				<text_reviews_count type="integer">1886</text_reviews_count>
+				<original_publication_year type="integer">2014</original_publication_year>
+				<original_publication_month type="integer">4</original_publication_month>
+				<original_publication_day type="integer">15</original_publication_day>
+				<average_rating>3.71</average_rating>
+				<best_book type="Book">
+					<id type="integer">15832932</id>
+					<title>What I Thought Was True</title>
+					<author>
+						<id type="integer">4660036</id>
+						<name>Huntley Fitzpatrick</name>
+					</author>
+					<image_url>https://images.gr-assets.com/books/1479774148m/15832932.jpg</image_url>
+					<small_image_url>https://images.gr-assets.com/books/1479774148s/15832932.jpg</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">8996782</id>
+				<books_count type="integer">49</books_count>
+				<ratings_count type="integer">35440</ratings_count>
+				<text_reviews_count type="integer">4548</text_reviews_count>
+				<original_publication_year type="integer">2010</original_publication_year>
+				<original_publication_month type="integer">7</original_publication_month>
+				<original_publication_day type="integer">6</original_publication_day>
+				<average_rating>3.44</average_rating>
+				<best_book type="Book">
+					<id type="integer">7334201</id>
+					<title>Super Sad True Love Story</title>
+					<author>
+						<id type="integer">12437</id>
+						<name>Gary Shteyngart</name>
+					</author>
+					<image_url>https://images.gr-assets.com/books/1320540909m/7334201.jpg</image_url>
+					<small_image_url>https://images.gr-assets.com/books/1320540909s/7334201.jpg</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">329838</id>
+				<books_count type="integer">23</books_count>
+				<ratings_count type="integer">7268</ratings_count>
+				<text_reviews_count type="integer">319</text_reviews_count>
+				<original_publication_year type="integer">1998</original_publication_year>
+				<original_publication_month type="integer">7</original_publication_month>
+				<original_publication_day type="integer">30</original_publication_day>
+				<average_rating>4.45</average_rating>
+				<best_book type="Book">
+					<id type="integer">339443</id>
+					<title>True to the Game (True to the Game #1)</title>
+					<author>
+						<id type="integer">90596</id>
+						<name>Teri Woods</name>
+					</author>
+					<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+					<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				</best_book>
+			</work>
+			<work>
+				<id type="integer">51228990</id>
+				<books_count type="integer">30</books_count>
+				<ratings_count type="integer">29301</ratings_count>
+				<text_reviews_count type="integer">4018</text_reviews_count>
+				<original_publication_year type="integer">2017</original_publication_year>
+				<original_publication_month type="integer">3</original_publication_month>
+				<original_publication_day type="integer">7</original_publication_day>
+				<average_rating>3.88</average_rating>
+				<best_book type="Book">
+					<id type="integer">30687200</id>
+					<title>The Stranger in the Woods: The Extraordinary Story of the Last True Hermit</title>
+					<author>
+						<id type="integer">206768</id>
+						<name>Michael Finkel</name>
+					</author>
+					<image_url>https://images.gr-assets.com/books/1474560136m/30687200.jpg</image_url>
+					<small_image_url>https://images.gr-assets.com/books/1474560136s/30687200.jpg</small_image_url>
+				</best_book>
+			</work>
+		</results>
+	</search>
+</GoodreadsResponse>

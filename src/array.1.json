@@ -1,0 +1,998 @@
+{
+    "Request": {
+        "authentication": "true",
+        "key": "aBIb5YItlnvRHJQ441m15w",
+        "method": "search_index"
+    },
+    "search": {
+        "query": "undefined",
+        "results-start": "1",
+        "results-end": "20",
+        "total-results": "61",
+        "source": "Goodreads",
+        "query-time-seconds": "0.14",
+        "results": [
+            {
+                "id": {
+                    "text": "62364061",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "2",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "6",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "5",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_month": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_day": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "average_rating": "3.67",
+                "best_book": {
+                    "id": {
+                        "text": "40188904",
+                        "type": "integer"
+                    },
+                    "title": "Daughter, Undefined",
+                    "author": {
+                        "id": {
+                            "text": "17088856",
+                            "type": "integer"
+                        },
+                        "name": "Jackie McReynolds Ruchti"
+                    },
+                    "image_url": "https://images.gr-assets.com/books/1526933839m/40188904.jpg",
+                    "small_image_url": "https://images.gr-assets.com/books/1526933839s/40188904.jpg",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "15954177",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "2",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "20",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "10",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "text": "2011",
+                    "type": "integer"
+                },
+                "original_publication_month": {
+                    "text": "3",
+                    "type": "integer"
+                },
+                "original_publication_day": {
+                    "text": "10",
+                    "type": "integer"
+                },
+                "average_rating": "3.90",
+                "best_book": {
+                    "id": {
+                        "text": "11034171",
+                        "type": "integer"
+                    },
+                    "title": "Aurora Undefined",
+                    "author": {
+                        "id": {
+                            "text": "4772538",
+                            "type": "integer"
+                        },
+                        "name": "Kate Hinderer"
+                    },
+                    "image_url": "https://images.gr-assets.com/books/1340121275m/11034171.jpg",
+                    "small_image_url": "https://images.gr-assets.com/books/1340121275s/11034171.jpg",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "50702948",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "3",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "19",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "3",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_month": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_day": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "average_rating": "4.74",
+                "best_book": {
+                    "id": {
+                        "text": "30239790",
+                        "type": "integer"
+                    },
+                    "title": "Undefined",
+                    "author": {
+                        "id": {
+                            "text": "15270123",
+                            "type": "integer"
+                        },
+                        "name": "Einat Segal"
+                    },
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "6615337",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "3",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "2",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "text": "2009",
+                    "type": "integer"
+                },
+                "original_publication_month": {
+                    "text": "4",
+                    "type": "integer"
+                },
+                "original_publication_day": {
+                    "text": "1",
+                    "type": "integer"
+                },
+                "average_rating": "5.00",
+                "best_book": {
+                    "id": {
+                        "text": "6425984",
+                        "type": "integer"
+                    },
+                    "title": "Undefined",
+                    "author": {
+                        "id": {
+                            "text": "2912459",
+                            "type": "integer"
+                        },
+                        "name": "Kristina Dizard"
+                    },
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "6661318",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "1",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "3",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_month": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_day": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "average_rating": "3.33",
+                "best_book": {
+                    "id": {
+                        "text": "6470710",
+                        "type": "integer"
+                    },
+                    "title": "Bem-Vindo a Bolsa de Valores",
+                    "author": {
+                        "id": {
+                            "text": "2931534",
+                            "type": "integer"
+                        },
+                        "name": "Undefined"
+                    },
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "45360577",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "1",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "13",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "1",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "text": "2015",
+                    "type": "integer"
+                },
+                "original_publication_month": {
+                    "text": "5",
+                    "type": "integer"
+                },
+                "original_publication_day": {
+                    "text": "17",
+                    "type": "integer"
+                },
+                "average_rating": "3.23",
+                "best_book": {
+                    "id": {
+                        "text": "25562811",
+                        "type": "integer"
+                    },
+                    "title": "Undefined",
+                    "author": {
+                        "id": {
+                            "text": "13999845",
+                            "type": "integer"
+                        },
+                        "name": "Sylvie Nathan"
+                    },
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "44012129",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "1",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "13",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "4",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "text": "2015",
+                    "type": "integer"
+                },
+                "original_publication_month": {
+                    "text": "1",
+                    "type": "integer"
+                },
+                "original_publication_day": {
+                    "text": "10",
+                    "type": "integer"
+                },
+                "average_rating": "3.77",
+                "best_book": {
+                    "id": {
+                        "text": "24424804",
+                        "type": "integer"
+                    },
+                    "title": "Love Of The Undefined",
+                    "author": {
+                        "id": {
+                            "text": "7738055",
+                            "type": "integer"
+                        },
+                        "name": "Amelia Carter"
+                    },
+                    "image_url": "https://images.gr-assets.com/books/1420915894m/24424804.jpg",
+                    "small_image_url": "https://images.gr-assets.com/books/1420915894s/24424804.jpg",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "56468541",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "2",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "23",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "5",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_month": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_day": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "average_rating": "4.78",
+                "best_book": {
+                    "id": {
+                        "text": "35144623",
+                        "type": "integer"
+                    },
+                    "title": "Love Remains Undefined",
+                    "author": {
+                        "id": {
+                            "text": "16149210",
+                            "type": "integer"
+                        },
+                        "name": "Mousumi Kalita Sachdeva"
+                    },
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "58699705",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "3",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "12",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "7",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_month": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_day": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "average_rating": "4.42",
+                "best_book": {
+                    "id": {
+                        "text": "36945818",
+                        "type": "integer"
+                    },
+                    "title": "Love Undefined",
+                    "author": {
+                        "id": {
+                            "text": "16595672",
+                            "type": "integer"
+                        },
+                        "name": "LDS Beta Readers"
+                    },
+                    "image_url": "https://images.gr-assets.com/books/1512498673m/36945818.jpg",
+                    "small_image_url": "https://images.gr-assets.com/books/1512498673s/36945818.jpg",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "48751940",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "1",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "text": "2016",
+                    "type": "integer"
+                },
+                "original_publication_month": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_day": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "average_rating": {
+                    "text": "0.0",
+                    "type": "float"
+                },
+                "best_book": {
+                    "id": {
+                        "text": "28585637",
+                        "type": "integer"
+                    },
+                    "title": "Undefined (Unguarded, #3)",
+                    "author": {
+                        "id": {
+                            "text": "14046436",
+                            "type": "integer"
+                        },
+                        "name": "Ivy Stone"
+                    },
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "56554076",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "1",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "8",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "text": "2017",
+                    "type": "integer"
+                },
+                "original_publication_month": {
+                    "text": "5",
+                    "type": "integer"
+                },
+                "original_publication_day": {
+                    "text": "22",
+                    "type": "integer"
+                },
+                "average_rating": "4.00",
+                "best_book": {
+                    "id": {
+                        "text": "35214400",
+                        "type": "integer"
+                    },
+                    "title": "Undefined",
+                    "author": {
+                        "id": {
+                            "text": "14025656",
+                            "type": "integer"
+                        },
+                        "name": "Amy Robyn"
+                    },
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "53508989",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "2",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "4",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "1",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_month": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_day": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "average_rating": "5.00",
+                "best_book": {
+                    "id": {
+                        "text": "32894921",
+                        "type": "integer"
+                    },
+                    "title": "Undefined",
+                    "author": {
+                        "id": {
+                            "text": "16055989",
+                            "type": "integer"
+                        },
+                        "name": "Madeleine Rheinheimer"
+                    },
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "59480309",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "1",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_month": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_day": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "average_rating": {
+                    "text": "0.0",
+                    "type": "float"
+                },
+                "best_book": {
+                    "id": {
+                        "text": "37807193",
+                        "type": "integer"
+                    },
+                    "title": "Undefined",
+                    "author": {
+                        "id": {
+                            "text": "7843430",
+                            "type": "integer"
+                        },
+                        "name": "Kimberly Cunningham"
+                    },
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "55003427",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "1",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_month": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_day": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "average_rating": {
+                    "text": "0.0",
+                    "type": "float"
+                },
+                "best_book": {
+                    "id": {
+                        "text": "34006549",
+                        "type": "integer"
+                    },
+                    "title": "Undefined",
+                    "author": {
+                        "id": {
+                            "text": "14792575",
+                            "type": "integer"
+                        },
+                        "name": "J.D. Gold"
+                    },
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "57629729",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "1",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_month": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_day": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "average_rating": {
+                    "text": "0.0",
+                    "type": "float"
+                },
+                "best_book": {
+                    "id": {
+                        "text": "36052853",
+                        "type": "integer"
+                    },
+                    "title": "Undefined",
+                    "author": {
+                        "id": {
+                            "text": "7843430",
+                            "type": "integer"
+                        },
+                        "name": "Kimberly Cunningham"
+                    },
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "64686748",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "1",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_month": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_day": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "average_rating": {
+                    "text": "0.0",
+                    "type": "float"
+                },
+                "best_book": {
+                    "id": {
+                        "text": "41444069",
+                        "type": "integer"
+                    },
+                    "title": "Undefined",
+                    "author": {
+                        "id": {
+                            "text": "8685878",
+                            "type": "integer"
+                        },
+                        "name": "Jessica Ruddick"
+                    },
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "64211454",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "1",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_month": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_day": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "average_rating": {
+                    "text": "0.0",
+                    "type": "float"
+                },
+                "best_book": {
+                    "id": {
+                        "text": "41099657",
+                        "type": "integer"
+                    },
+                    "title": "Undefined",
+                    "author": {
+                        "id": {
+                            "text": "18288251",
+                            "type": "integer"
+                        },
+                        "name": "Cassandra Feltrin"
+                    },
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "18283271",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "1",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "1",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "text": "2011",
+                    "type": "integer"
+                },
+                "original_publication_month": {
+                    "text": "3",
+                    "type": "integer"
+                },
+                "original_publication_day": {
+                    "text": "3",
+                    "type": "integer"
+                },
+                "average_rating": "5.00",
+                "best_book": {
+                    "id": {
+                        "text": "13109933",
+                        "type": "integer"
+                    },
+                    "title": "Undetermined, Undefined",
+                    "author": {
+                        "id": {
+                            "text": "5350678",
+                            "type": "integer"
+                        },
+                        "name": "Douglas R. Hutchison"
+                    },
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "7200783",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "1",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "0",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "text": "2003",
+                    "type": "integer"
+                },
+                "original_publication_month": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "original_publication_day": {
+                    "type": "integer",
+                    "nil": "true"
+                },
+                "average_rating": {
+                    "text": "0.0",
+                    "type": "float"
+                },
+                "best_book": {
+                    "id": {
+                        "text": "6962955",
+                        "type": "integer"
+                    },
+                    "title": "the undefined use of this",
+                    "author": {
+                        "id": {
+                            "text": "3111035",
+                            "type": "integer"
+                        },
+                        "name": "Randall J. Lotowycz"
+                    },
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "type": "Book"
+                }
+            },
+            {
+                "id": {
+                    "text": "25880134",
+                    "type": "integer"
+                },
+                "books_count": {
+                    "text": "9",
+                    "type": "integer"
+                },
+                "ratings_count": {
+                    "text": "51",
+                    "type": "integer"
+                },
+                "text_reviews_count": {
+                    "text": "13",
+                    "type": "integer"
+                },
+                "original_publication_year": {
+                    "text": "2013",
+                    "type": "integer"
+                },
+                "original_publication_month": {
+                    "text": "8",
+                    "type": "integer"
+                },
+                "original_publication_day": {
+                    "text": "14",
+                    "type": "integer"
+                },
+                "average_rating": "4.41",
+                "best_book": {
+                    "id": {
+                        "text": "36456084",
+                        "type": "integer"
+                    },
+                    "title": "Lover Undefined (The Dark Priesthood: Confessions of Malevolence-sanguine Lineage #1)",
+                    "author": {
+                        "id": {
+                            "text": "7200787",
+                            "type": "integer"
+                        },
+                        "name": "Sai Marie Johnson"
+                    },
+                    "image_url": "https://images.gr-assets.com/books/1508667688m/36456084.jpg",
+                    "small_image_url": "https://images.gr-assets.com/books/1508667688s/36456084.jpg",
+                    "type": "Book"
+                }
+            }
+        ]
+    }
+}
