@@ -21,7 +21,7 @@ class BookList extends Component {
     onSearch = (event) => {
         var request = this.state.request;
         request.page = 1;
-        this.setState({request,currentPage:1});
+        this.setState({ request, currentPage: 1 });
 
         this.state.request.searchString.trim() !== '' && this.props.searchBook(this.state.request)
     }
@@ -47,9 +47,9 @@ class BookList extends Component {
     };
     render() {
 
-        let { bookList,loading } = this.props;
+        let { bookList, loading } = this.props;
 
-        return (<div>
+        return (<div className="page">
             <div className="search-container">
                 <input type="text" name="searchBox" onChange={this.onChangeText} />
                 <button onClick={this.onSearch}>search</button>
@@ -64,11 +64,11 @@ class BookList extends Component {
                             pageNeighbours={1}
                             onPageChanged={this.onPageChanged}
                             currentPage={this.state.currentPage}
-                            />
-                        }
+                        />
+                    }
                 </div>
                 <div>
-                        {loading && <div>Loading...</div>}
+                    {loading && <div style={{color:"white"}}>Loading...</div>}
                 </div>
                 <div className="book-grid">
                     {

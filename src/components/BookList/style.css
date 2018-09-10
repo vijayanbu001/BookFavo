@@ -10,7 +10,7 @@
 .book-content {
     margin: 20px;
     width: 200px;
-    flex:1;
+    flex: 1;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -21,29 +21,31 @@
     padding: 10px;
     min-height: 100px;
     border-radius: 5px;
-    border:2px solid lightgray ;
+    border: 2px solid lightgray;
     z-index: 10;
     box-shadow: 0px 0px 10px rgba(100, 100, 100, 0.6);
     background: white;
-} 
+}
 
 .search-container {
-    margin-top: 20px;
+    padding-top: 20px;
 }
+
 .search-container input {
-    min-width:315px;
+    min-width: 315px;
     margin-right: 10px;
-    height:40px;
+    height: 40px;
     border-radius: 5px;
 }
+
 .search-container button {
     border-radius: 5px;
-    height:40px;
-    width:80px;
+    height: 40px;
+    width: 80px;
     color: white;
     font-variant-caps: all-small-caps;
-    background-color:#6b88a4;
-
+    background-color: #48B;
+    border:0px;
 }
 
 ul.pagination {
@@ -76,4 +78,10 @@ ul.pagination button.page-link:hover {
 .current-page {
     font-size: 1.5rem;
     vertical-align: middle;
-  }
+}
+
+.page {
+    background: linear-gradient(#ffffff 50%, rgba(255, 255, 255, 0) 0) 0 0, radial-gradient(circle closest-side, #FFFFFF 54%, rgba(255, 255, 255, 0) 0) 0 0, radial-gradient(circle closest-side, #FFFFFF 54%, rgba(255, 255, 255, 0) 0) 55px 0 #48B;
+    background-size: 22px 140px;
+    background-repeat: repeat-x;
+}
